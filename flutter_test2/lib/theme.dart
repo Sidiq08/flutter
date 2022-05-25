@@ -4,7 +4,7 @@ Color blueColor = Color(0xff1F8DF5);
 Color whiteColor = Color(0xffFFFFFF);
 Color lightBlueColor = Color(0xff9ED0FF);
 Color blackColor = Color(0xff2C3A59);
-Color greyColor = Color(0xff808BA2);
+Color greyColor = Color(0xffced4da);
 Color greenColor = Color(0xff29CB9E);
 
 TextStyle titleTextStyle = TextStyle(
@@ -19,7 +19,7 @@ TextStyle subTitleTextStyle = TextStyle(
   fontSize: 16,
 );
 TextStyle regularText = TextStyle(
-  color: greyColor,
+  color: blackColor,
   fontWeight: FontWeight.w400,
   fontSize: 14,
 );
